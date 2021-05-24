@@ -28,6 +28,8 @@ public class test1 {
     void simpleAssertion(){
         Assertions.assertEquals(2, 2);
     }
-
+    void simpleAssertion2(){
+        Assertions.assertEquals(2, 3);
+    }
 
 }
